@@ -1,0 +1,7 @@
+Finalized Document
+
+Name : Krish Shrestha
+Age : 19
+Status : Single
+isHungry : Yes
+isCute : No
